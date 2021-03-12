@@ -32,7 +32,17 @@ public class Rules507 {
                                           boolean implementedFeature) {
 
         // TODO: Fill in this method, then remove the exception below
-        throw new RuntimeException("implement me!");
+        if(writtenByMe == true && citedSource == true && implementedFeature ==true && usedByOthers == false){
+
+            return true;
+
+        }else{
+
+            return false;
+
+        }
+
+
     }
     
     /**

@@ -17,6 +17,7 @@ public class Rules507Test {
     /**
      * Tests the mayUseCodeIn507 method.
      */
+
     @Test
     public void testMayUseCodeIn507() {
 
